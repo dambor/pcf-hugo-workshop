@@ -1,17 +1,17 @@
 +++
 Categories = ["agenda","workshop"]
 Tags = ["logistics","speakers"]
-date = "2016-03-15T16:23:23+09:00"
-title = "Welcome to the Pivotal Cloud Foundry Workshop@GM Austin"
+date = "2016-11-07T16:23:23+09:00"
+title = "Welcome to the Pivotal Cloud Foundry Workshop@Tivit Sao Paulo"
 type = "Introduction"
 weight = 1
 +++
 ##### Location
 
-Corvette 2nd Floor Austin
+Tivit Office - Sao Paulo - Brazil
 
 ##### Date and Time
-Date: **April 26 , 2016**
+Date: **November 7 , 2016**
 
 Time: **9:30AM—4:30PM**
 
@@ -23,9 +23,9 @@ Click to get the Agenda, Prerequisites and Setup for the workshop.
 
         Broad Agenda (We will have breaks in between sessions)
 
-        9:30 - 10:30: GM's Current and Desired Model of Software Delivery (3 Use Cases) -- Mano and GM Team
+        9:30 - 10:30: Cloud Native Architecture
 
-        10:30 - 11:30: Pivotal (and VMWare)'s approach to GM's desired state (Fulfilment of Use Cases)- Pivotal
+        10:30 - 11:30: Pivotal Cloud Foundry - A Cloud Native Platform
 
         == LUNCH ==
 
